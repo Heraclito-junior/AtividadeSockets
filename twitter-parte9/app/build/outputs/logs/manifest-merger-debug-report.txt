@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:8:5-44
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\hjuni\.android\build-cache\79ac56d909a15686c53c00f63bd873e49dc6ff14\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\hjuni\.android\build-cache\2d3f83b7215614ab037576666e16e592e8bcdb55\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\hjuni\.android\build-cache\a2a9afaea73eb6c19a1a4aca633f735f43f90402\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hjuni\.android\build-cache\59c6fc80c826c7e5562b621f2373a1c6e0d57aa9\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\hjuni\.android\build-cache\879d23277da5f4a35825f5b93425b774a6b612ae\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\hjuni\.android\build-cache\ec8d2dc910a9f58509002089c5f065d8f3ac4036\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\hjuni\.android\build-cache\7f5acfe9ceef386fdf28e4ca50da62212764aa33\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\hjuni\.android\build-cache\79ac56d909a15686c53c00f63bd873e49dc6ff14\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:8:15-41
+		INJECTED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:10:22-66
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:18:22-77
+application
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:20:5-54:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\hjuni\.android\build-cache\79ac56d909a15686c53c00f63bd873e49dc6ff14\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\hjuni\.android\build-cache\2d3f83b7215614ab037576666e16e592e8bcdb55\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\hjuni\.android\build-cache\a2a9afaea73eb6c19a1a4aca633f735f43f90402\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hjuni\.android\build-cache\59c6fc80c826c7e5562b621f2373a1c6e0d57aa9\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\hjuni\.android\build-cache\879d23277da5f4a35825f5b93425b774a6b612ae\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\hjuni\.android\build-cache\ec8d2dc910a9f58509002089c5f065d8f3ac4036\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\hjuni\.android\build-cache\7f5acfe9ceef386fdf28e4ca50da62212764aa33\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:21:9-45
+activity#exemplo.twitter.TwitterActivity
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:23:9-38:20
+	android:label
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:24:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:29:27-74
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:31:13-37:29
+action#android.intent.action.SEND
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:34:27-73
+data
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:36:17-52
+	android:mimeType
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:36:23-49
+activity#exemplo.twitter.TweetDetailsActivity
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:39:9-45:20
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:39:19-55
+intent-filter#android.intent.category.DEFAULT+exercicios.tweet.DETALHES
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:40:13-44:29
+action#exercicios.tweet.DETALHES
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:41:17-68
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:41:25-65
+activity#exemplo.twitter.TweetEditActivity
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:46:9-52:20
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:46:19-52
+intent-filter#android.intent.category.DEFAULT+exercicios.tweet.EDITAR
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:47:13-51:29
+action#exercicios.tweet.EDITAR
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:48:17-66
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:48:25-63
+activity#exemplo.twitter.chatActivity
+ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:53:9-59
+	android:name
+		ADDED from C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\src\main\AndroidManifest.xml:53:19-47
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\hjuni\.android\build-cache\ec8d2dc910a9f58509002089c5f065d8f3ac4036\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\hjuni\.android\build-cache\ec8d2dc910a9f58509002089c5f065d8f3ac4036\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\hjuni\.android\build-cache\ec8d2dc910a9f58509002089c5f065d8f3ac4036\output\AndroidManifest.xml:22:13-58

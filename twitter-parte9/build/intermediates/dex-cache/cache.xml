@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hjuni\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_647202481a1a222b0d5d276f3fb4c7146512dc57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hjuni\.android\build-cache\59c6fc80c826c7e5562b621f2373a1c6e0d57aa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\hjuni\AndroidStudioProjects\twitter-parte9\app\build\intermediates\pre-dexed\debug\classes_79af20c4418d801af7514de05011400d229899cf.jar" />
+    </item>
+
+</items>
